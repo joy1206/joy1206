@@ -1,10 +1,8 @@
 # Hello! I am Seoyeon Shin👋🏻
-I love developing. Especially interested in 🖥️ Backend Development (for now).
+I love developing. Especially interested in 🖥️ Full Stack Development (for now).
 
 **Studying & Working on...**
 - Chungnam National University
-
-[![Solved.ac ssy_1206](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssy_1206)](https://solved.ac/ssy_1206)
 
 ## Contact me
 - 📧 Email : seoyeon.shin.dev@gmail.com
@@ -20,10 +18,12 @@ I love developing. Especially interested in 🖥️ Backend Development (for now
 ![fastapi](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![react](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![nestjs](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
 ![swift](https://img.shields.io/badge/Swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![swiftui](https://img.shields.io/badge/SwiftUI-007AFF.svg?style=for-the-badge&logo=swiftui&logoColor=white)
-![java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 #### Collaboration Tools
 ![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
