@@ -7,6 +7,9 @@ I love developing. Especially interested in 🖥️ Full Stack Development (for 
 ## Contact me
 - 📧 Email : seoyeon.shin.dev@gmail.com
 - ℹ️ LinkedIn : [Seoyeon Shin](https://www.linkedin.com/in/seoyeonshindev/)
+- Old Projects Archive : [https://github.com/seoyeon-1206](https://github.com/seoyeon-1206)
+
+---
 
 ## Techs
 #### DevOps
