@@ -1,7 +1,9 @@
 # Hello! I am Seoyeon Shin👋🏻
 I love developing. Especially interested in 🖥️ Full Stack Development (for now).
+<br>
+GitHub Rebuilding in Progress. 🏗️ Consolidating projects and refining repository structures.
 
-**Studying & Working on...**
+**Studying on...**
 - Chungnam National University
 
 ## Contact me
